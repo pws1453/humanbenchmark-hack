@@ -1,7 +1,7 @@
 # Human Benchmark - Reaction Time Test hack
 Tested on python 3.8.3
 
-##Required Plugins
+## Required Plugins
 Windows
 * PyAutoGUI
 
